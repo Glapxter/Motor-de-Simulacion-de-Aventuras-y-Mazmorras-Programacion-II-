@@ -20,4 +20,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         EnemyTypes.cpp
         EnemyTypes.h
         Region.cpp
-        Region.h)
+        Region.h
+        World.cpp
+        World.h)
