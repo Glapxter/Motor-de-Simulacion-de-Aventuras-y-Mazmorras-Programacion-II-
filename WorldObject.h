@@ -18,7 +18,7 @@ public:
     virtual ~WorldObject() = default;
 
     bool isVisible() const;
-    bool isActive()  const;
+    bool isActive() const;
 
     void setVisible(bool value);
     void setActive(bool value);

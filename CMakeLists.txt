@@ -10,4 +10,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         Character.h
         Inventory.h
         WorldObject.cpp
-        WorldObject.h)
+        WorldObject.h
+        Enemy.cpp
+        Enemy.h)
