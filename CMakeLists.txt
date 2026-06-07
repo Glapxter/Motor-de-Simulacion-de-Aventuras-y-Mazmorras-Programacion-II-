@@ -24,4 +24,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         World.cpp
         World.h
         Logger.cpp
-        Logger.h)
+        Logger.h
+        SimulationEngine.cpp
+        SimulationEngine.h)
