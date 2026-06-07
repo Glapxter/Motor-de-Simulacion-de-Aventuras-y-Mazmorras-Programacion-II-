@@ -1,0 +1,20 @@
+# objects.txt
+# Format: TYPE id | name | description | region_id | extra_param
+
+HEART  hc001 | Heart Container | A shining red heart that extends your life. | kokiri_forest | 4
+CHEST  ch001 | Old Wooden Chest | A dusty chest hidden behind a tree. | kokiri_forest | key001
+RUPEES rp001 | Rupee Pouch | A pouch left by a lost traveler. | lost_woods | 30
+KEY    key001 | Small Key | A small iron key. | lost_woods | door001
+HEART  hc002 | Heart Piece | A quarter of a Heart Container. | hyrule_field | 2
+RUPEES rp002 | Blue Rupee | A medium-value rupee. | hyrule_field | 5
+CHEST  ch002 | Iron Chest | A heavy chest sealed with rust. | lake_hylia | bow001
+HEART  hc003 | Heart Container | A shining red heart. | lake_hylia | 4
+RUPEES rp003 | Goron Gift | A bag of rupees left by a grateful Goron. | death_mountain | 50
+WEAPON bow001 | Fairy Bow | A magical bow that never misses. | goron_city | 20
+HEART  hc004 | Heart Container | Dropped by a defeated guardian. | goron_city | 4
+WEAPON sword001 | Master Sword | The blade of evil's bane. | sacred_grove | 40
+DOOR   door001 | Sacred Door | An ancient door sealed by magic. | sacred_grove | key001
+RUPEES rp004 | Royal Treasury | Rupees scattered in the chaos. | hyrule_castle | 100
+KEY    key002 | Boss Key | The key to Ganon's Tower. | hyrule_castle | door002
+DOOR   door002 | Tower Gate | The great gate to Ganon's Tower. | ganons_tower | key002
+HEART  hc005 | Final Heart | A Heart Container left for the hero. | ganons_tower | 4

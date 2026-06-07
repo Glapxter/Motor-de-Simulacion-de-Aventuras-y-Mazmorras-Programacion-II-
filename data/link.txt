@@ -1,0 +1,12 @@
+# link.txt
+# Initial configuration for the hero Link
+# Format: KEY value
+
+NAME Link
+HP 500
+MAX_HP 500
+ATTACK 35
+RUPEES 0
+START_REGION kokiri_forest
+GOAL_REGION ganons_tower
+GOAL_ENEMY boss003

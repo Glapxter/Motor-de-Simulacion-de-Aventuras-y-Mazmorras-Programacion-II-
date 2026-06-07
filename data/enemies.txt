@@ -1,0 +1,12 @@
+# enemies.txt
+# Format: TYPE id | name | description | hp | damage | rupee_drop | region_id
+
+MOBLIN mob001 | Bokoblin | A small red monster that attacks on sight. | 30 | 8 | 5 | kokiri_forest
+MOBLIN mob002 | Skulltula | A giant spider that drops from the ceiling. | 20 | 10 | 8 | lost_woods
+MOBLIN mob003 | Stalfos | A skeleton warrior with a shield and sword. | 50 | 12 | 15 | lost_woods
+MOBLIN mob004 | Lizalfos | A nimble lizard-like warrior that breathes fire. | 45 | 14 | 20 | death_mountain
+MOBLIN mob005 | Peahat | A spinning plant creature that attacks when approached. | 25 | 8 | 6 | hyrule_field
+MOBLIN mob006 | Darknut | A heavily armored knight loyal to Ganon. | 80 | 20 | 40 | hyrule_castle
+BOSS boss001 | Queen Gohma | A giant spider who rules Kokiri Forest from the shadows. | 120 | 20 | 100 | sacred_grove
+BOSS boss002 | Volvagia | An ancient dragon awakened inside Death Mountain. | 200 | 25 | 200 | goron_city
+BOSS boss003 | Ganondorf | The King of Evil. The final obstacle between Link and peace. | 350 | 30 | 0 | ganons_tower

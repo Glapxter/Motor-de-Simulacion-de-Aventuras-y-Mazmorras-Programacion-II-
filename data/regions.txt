@@ -1,0 +1,12 @@
+# regions.txt
+# Format: REGION id | name | description | connections (comma-separated)
+
+REGION kokiri_forest | Kokiri Forest | A peaceful forest where children never grow old. | lost_woods,hyrule_field
+REGION lost_woods | Lost Woods | A dark maze of trees where travelers get lost forever. | kokiri_forest,sacred_grove
+REGION hyrule_field | Hyrule Field | A vast open plain at the heart of the kingdom. | kokiri_forest,hyrule_castle,lake_hylia,death_mountain
+REGION lake_hylia | Lake Hylia | A great lake in southern Hyrule fed by underground springs. | hyrule_field
+REGION death_mountain | Death Mountain | A volcanic mountain to the north, home to the Gorons. | hyrule_field,goron_city
+REGION goron_city | Goron City | A cavern city carved into Death Mountain by the Gorons. | death_mountain
+REGION sacred_grove | Sacred Grove | An ancient hidden grove where the Master Sword rests. | lost_woods
+REGION hyrule_castle | Hyrule Castle | The towering seat of the Royal Family of Hyrule. | hyrule_field,ganons_tower
+REGION ganons_tower | Ganon's Tower | A dark fortress of evil at the heart of Hyrule Castle. | hyrule_castle
