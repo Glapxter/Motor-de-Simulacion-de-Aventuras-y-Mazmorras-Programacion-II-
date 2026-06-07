@@ -16,4 +16,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         Link.cpp
         Link.h
         GameObjects.cpp
-        GameObjects.h)
+        GameObjects.h
+        EnemyTypes.cpp
+        EnemyTypes.h)
