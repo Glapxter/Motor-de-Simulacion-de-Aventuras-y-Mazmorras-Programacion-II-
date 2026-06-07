@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         Entity.cpp
-        Entity.h)
+        Entity.h
+        Character.cpp
+        Character.h)
