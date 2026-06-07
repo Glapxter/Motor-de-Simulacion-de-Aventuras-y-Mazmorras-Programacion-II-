@@ -22,4 +22,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         Region.cpp
         Region.h
         World.cpp
-        World.h)
+        World.h
+        Logger.cpp
+        Logger.h)
