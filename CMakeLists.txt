@@ -8,4 +8,6 @@ add_executable(Barrios_Marchan_Anthony__Proyecto_2_ main.cpp
         Entity.h
         Character.cpp
         Character.h
-        Inventory.h)
+        Inventory.h
+        WorldObject.cpp
+        WorldObject.h)
