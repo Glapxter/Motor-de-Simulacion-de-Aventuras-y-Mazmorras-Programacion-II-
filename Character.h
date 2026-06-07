@@ -11,19 +11,17 @@ protected:
     bool alive;
 
 public:
-    Character(const std::string& id, const std::string& name,
-              const std::string& description, int maxHealth);
+    Character(const std::string& id, const std::string& name, const std::string& description, int maxHealth);
     virtual ~Character() = default;
 
-    int  getHealth()    const;
-    int  getMaxHealth() const;
-    bool isAlive()      const;
+    int getHealth() const;
+    int getMaxHealth() const;
+    bool isAlive() const;
 
-    virtual int  takeDamage(int amount);
+    virtual int takeDamage(int amount);
     virtual void heal(int amount);
 
     virtual std::string toString() const override;
 };
-
 
 #endif //BARRIOS_MARCHAN_ANTHONY__PROYECTO_2__CHARACTER_H

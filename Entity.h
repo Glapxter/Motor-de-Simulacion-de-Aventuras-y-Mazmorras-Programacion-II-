@@ -14,8 +14,8 @@ public:
     Entity(const std::string& id, const std::string& name, const std::string& description);
     virtual ~Entity() = default;
 
-    const std::string& getId()          const;
-    const std::string& getName()        const;
+    const std::string& getId() const;
+    const std::string& getName() const;
     const std::string& getDescription() const;
 
     virtual std::string toString() const;
